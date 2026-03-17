@@ -57,8 +57,8 @@ mkdir %userprofile%\Desktop\Backup
 
 
 mv Myfile.txt %userprofile%\Documents
+<img width="1139" height="634" alt="image" src="https://github.com/user-attachments/assets/18215abd-5e1b-4d62-8dc0-90a9d186cc78" />
 
-![alt text](<Screenshot (305).png>)
 
 ## Exercise 2: Advanced Batch Scripting
 
